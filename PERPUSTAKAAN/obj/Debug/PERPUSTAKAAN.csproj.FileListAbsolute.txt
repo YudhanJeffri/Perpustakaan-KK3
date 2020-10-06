@@ -1,0 +1,7 @@
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\PERPUSTAKAAN.exe.config
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\PERPUSTAKAAN.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\PERPUSTAKAAN.pdb
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\PERPUSTAKAAN.csprojAssemblyReference.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\PERPUSTAKAAN.csproj.CoreCompileInputs.cache
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\PERPUSTAKAAN.exe
+D:\Tugas Tugas XI RPL 5\Semester 2\kk3\projek\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\PERPUSTAKAAN.pdb
